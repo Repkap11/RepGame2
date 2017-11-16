@@ -1,0 +1,7 @@
+[package]
+name = "repgame2"
+version = "0.1.0"
+authors = ["Paul Repka <repkap11@gmail.com>"]
+
+[dependencies]
+piston_window = "0.70.0"
